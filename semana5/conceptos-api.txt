@@ -1,0 +1,7 @@
+¿Qué hace esta ruta?
+
+Esta ruta recibe una solicitud del usuario y responde con la información programada en el servidor. Permite que una aplicación entregue datos o mensajes cuando se accede a una dirección específica.
+
+¿Para qué podría servir en una aplicación comunitaria?
+
+Podría servir para mostrar información importante como noticias, eventos, convocatorias, horarios de atención o avisos para la comunidad. Así, los usuarios pueden consultar la información de manera rápida y sencilla.
