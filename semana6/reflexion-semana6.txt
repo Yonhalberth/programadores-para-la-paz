@@ -1,0 +1,8 @@
+Las plataformas tecnológicas necesitan recibir información de forma estructurada.
+Así pueden organizar y procesar los datos de manera más rápida.
+Esto reduce errores al momento de interpretar la información.
+También facilita la búsqueda y el almacenamiento de los registros.
+Permite automatizar procesos y responder con mayor eficiencia.
+Es útil para reportes, solicitudes y diferentes trámites.
+Además, mejora la comunicación entre los ciudadanos y las instituciones.
+Por eso es importante enviar la información en un formato organizado.
